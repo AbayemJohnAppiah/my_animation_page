@@ -209,8 +209,7 @@ nav ul a {
   .img {
     width: 300px;
     bottom: 0;
-    right: auto;
-    left: 20%;
+    left: 30%;
     transform: translateX(-50%);
   }
 }
